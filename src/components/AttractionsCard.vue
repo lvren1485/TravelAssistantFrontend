@@ -6,7 +6,7 @@
           <el-icon style="margin-right: 8px;"><Place /></el-icon>
           推荐景点
         </span>
-        <el-tag type="warning" size="small">高德地图API</el-tag>
+        <el-tag type="warning" size="small">聚合景点API</el-tag>
       </div>
     </template>
     <div class="attractions-grid">

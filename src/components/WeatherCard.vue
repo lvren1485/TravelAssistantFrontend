@@ -6,7 +6,7 @@
           <el-icon style="margin-right: 8px;"><Sunny /></el-icon>
           天气预报
         </span>
-        <el-tag type="success" size="small">和风天气API</el-tag>
+        <el-tag type="success" size="small">聚合天气API</el-tag>
       </div>
     </template>
     <div class="weather-grid">
