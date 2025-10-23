@@ -4,9 +4,9 @@
       <h1>🌍 智能旅行规划助手</h1>
       <p>整合天气、地图、航班和AI的一站式旅行规划服务</p>
       <div class="api-badges">
-        <span class="api-badge">和风天气API</span>
-        <span class="api-badge">高德地图API</span>
-        <span class="api-badge">航班信息API</span>
+        <span class="api-badge">天气API</span>
+        <span class="api-badge">景点API</span>
+        <span class="api-badge">航班API</span>
         <span class="api-badge">Deepseek API</span>
       </div>
     </div>
